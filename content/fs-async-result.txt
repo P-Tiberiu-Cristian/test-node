@@ -1,0 +1,1 @@
+The result of async write file is: This is the first file with text!, This is the second file with text!!
